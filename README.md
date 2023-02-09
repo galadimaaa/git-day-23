@@ -1,1 +1,2 @@
-# git-day-23
+# Git Day 2023
+## Aisha, Halima, Abdulwahab, Abubakar & Jamil 
