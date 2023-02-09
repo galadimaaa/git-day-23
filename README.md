@@ -1,6 +1,3 @@
-# Git Day 2023
-## Aisha, Halima, Abdulwahab, Abubakar & Jamil 
-
 # Getting started:
 Make sure you are on a desktop or laptop, and signed in to Github
 
